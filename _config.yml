@@ -4,7 +4,7 @@ minima:
   social_links:
     twitter: jseeio
     facebook: jseeio
-    github: jseeio/ethgen
+    github: jseeio/hash
 
 remote_theme: "jseeio/minima"
 
